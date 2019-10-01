@@ -1,0 +1,27 @@
+{
+    "Use":{
+        "API":{            
+            "1.Endpoints":{
+                "1.IsAlive":"index.md",
+                "2.MasterDataResponseCodes":"index.md",
+                "3.Endopoint": "index.md",
+                "4.Endopoint": "index.md",
+                "5.Endopoint": "index.md"
+            }
+        },
+        "Custom":{
+
+        }
+    },
+    "Technical":{
+        "API":{
+
+        },
+        "Module":{
+
+        },
+        "Custom":{
+
+        }
+    }
+}
