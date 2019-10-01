@@ -1,6 +1,6 @@
 # Summary
 
-Tool destinated for create a mkdocs structure. Based in a configuration.json file.
+Tool destinated to create a new mkdocs structure. Based in a configuration.json file.
 Used mkdocs-material template.
 
 ## How to
